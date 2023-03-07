@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/Rony58/Rony58/blob/main/header.png)
-<h1 align="center">Hi 👋, I'm Rani Mia</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Rony</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh</h3>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 <p align="left"> <img width="409" align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" /> </p>
